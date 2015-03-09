@@ -10,3 +10,7 @@ Although we import a normalize library, this one deals with some specifics with 
 ```console
 $ bower install ks-normalize
 ```
+
+[![Bower version](https://badge.fury.io/bo/ks-normalize.svg)](http://badge.fury.io/bo/ks-normalize)
+
+[![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
