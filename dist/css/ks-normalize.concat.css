@@ -1,15 +1,21 @@
 /*!
- * ks-normalize - v0.0.0 - 2015-03-11
+ * ks-normalize - v0.0.2 - 2015-06-07
  * https://github.com/ks-frontend/ks-normalize
  * Copyright (c) 2015 
  * Licensed ISC
  */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 6, ../../../../lib/scss/normalize.scss */
 ul, ol {
   margin: 0;
   padding: 0;
 }
 
-/* line 7, ../../../../lib/scss/normalize.scss */
+/* line 12, ../../../../lib/scss/normalize.scss */
 li {
   list-style: none;
   display: inline-block;
