@@ -1,16 +1,17 @@
-/* line 1, ../../../../lib/scss/normalize.scss */
+@import url(../../bower_components/normalize.css/normalize.css);
+/* line 3, ../../../../lib/scss/normalize.scss */
 body {
   margin: 0;
   padding: 0;
 }
 
-/* line 6, ../../../../lib/scss/normalize.scss */
+/* line 8, ../../../../lib/scss/normalize.scss */
 ul, ol {
   margin: 0;
   padding: 0;
 }
 
-/* line 12, ../../../../lib/scss/normalize.scss */
+/* line 14, ../../../../lib/scss/normalize.scss */
 li {
   list-style: none;
   display: inline-block;
