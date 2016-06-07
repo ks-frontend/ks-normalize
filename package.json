@@ -1,6 +1,6 @@
 {
   "name": "ks-normalize",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ks-normalize is a library which extends the normalize of Nicolas Gallagher and Jonathan Neal. The library is designed for the iknsa-frontend-framework although it can be used as standalone",
   "main": "templates/normalize.html",
   "scripts": {
