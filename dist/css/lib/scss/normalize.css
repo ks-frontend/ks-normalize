@@ -10,9 +10,3 @@ ul, ol {
   margin: 0;
   padding: 0;
 }
-
-/* line 14, ../../../../lib/scss/normalize.scss */
-li {
-  list-style: none;
-  display: inline-block;
-}
